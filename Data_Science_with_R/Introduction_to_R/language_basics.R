@@ -107,4 +107,6 @@ identical(test_mat_1, test_mat_2)  # scalar equivalent
 # -------------------------------------------------------
 #                                USING EXTERNAL LIBRARIES
 # -------------------------------------------------------
+
+# To install new packages : install.packages("dplyr")
 library("dplyr")
