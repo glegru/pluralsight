@@ -1,6 +1,8 @@
 # creating_data_visualizations.R
 # Handling R syntax
-# date: 2017-09-
+# date: 2017-09-11
+
+# Needed : install.packages("ggplot2")
 # -------------------------------------------------------
 
 # Setting the working directory
