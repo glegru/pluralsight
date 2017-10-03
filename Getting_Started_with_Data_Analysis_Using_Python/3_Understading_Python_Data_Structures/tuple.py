@@ -8,7 +8,7 @@ Using tuple to handle data.
 
 # ============================================================
 #                                                       BASICS
-# Basics: dictionnaries modification
+# Basics: tuples modification
 
 mytupl1 = ('ABC', 'Company ABC', 90.25)
 mytupl2 = ('XYZ', 'Corporation XYZ', 20.84)
