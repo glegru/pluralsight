@@ -1,5 +1,5 @@
-# creating_data_visualizations.R
-# Handling R syntax
+# creating_statistical_models.R
+# Basic statistical model training (for instance linear regression)
 # date: 2017-09-14
 # -------------------------------------------------------
 

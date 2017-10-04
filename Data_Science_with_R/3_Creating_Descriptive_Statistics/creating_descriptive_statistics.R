@@ -1,5 +1,5 @@
 # creating_descriptive_statistics.R
-# Handling R syntax
+# Showing basic descriptive statistics operations off.
 # date: 2017-09-
 # -------------------------------------------------------
 

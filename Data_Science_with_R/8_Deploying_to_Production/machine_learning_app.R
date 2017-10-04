@@ -1,5 +1,5 @@
 # machine_learning_app.R
-# Handling Shiny
+# Deploying the previous machine learning algorithm through a fancy shiny app !
 # date: 2017-09-15
 
 # Needed : install.packages("shiny")  # the Shiny R framework

@@ -1,5 +1,5 @@
-# creating_data_visualizations.R
-# Handling R syntax
+# handling_big_data.R
+# Handling ff and biglm librairies (big data librairies)
 # date: 2017-09-14
 
 # Needed : install.packages("ff")

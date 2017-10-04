@@ -1,5 +1,5 @@
 # working_with_data.R
-# Handling R syntax
+# Working with data through basic table operations.
 # date: 2017-07-28
 # -------------------------------------------------------
 

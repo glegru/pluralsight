@@ -1,5 +1,5 @@
 # creating_data_visualizations.R
-# Handling R syntax
+# Handling simple dataviz using ggplot2
 # date: 2017-09-11
 
 # Needed : install.packages("ggplot2")

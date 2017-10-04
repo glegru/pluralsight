@@ -1,5 +1,5 @@
 # simple_shiny_app.R
-# Handling Shiny
+# Further exploration of shiny, especially the ui and server interactions.
 # date: 2017-09-15
 
 # Needed : install.packages("shiny")  # the Shiny R framework

@@ -1,5 +1,5 @@
 # za_warudo.R
-# Handling Shiny
+# Handling Shiny through a simple hello world program
 # date: 2017-09-15
 
 # Needed : install.packages("shiny")  # the Shiny R framework

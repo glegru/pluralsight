@@ -1,5 +1,5 @@
-# creating_data_visualizations.R
-# Handling R syntax
+# predicting_with_machine_learning.R
+# Approaching the decision tree machine learning algorithm through R
 # date: 2017-09-14
 
 # Needed : install.packages("tree")          # decision tree algorithm
