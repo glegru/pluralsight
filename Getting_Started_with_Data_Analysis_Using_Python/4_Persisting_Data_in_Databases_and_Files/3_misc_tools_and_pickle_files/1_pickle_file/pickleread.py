@@ -3,7 +3,7 @@ pickleread.py
 date: 2017-10-04
 author : Guillaume LEGRU
 
-Applying DB basics to Ford stocks.
+Using pickle files to store presisting data.
 """
 
 import cPickle
