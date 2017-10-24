@@ -1,1 +1,7 @@
-.vscode/*
+/.vscode/
+/.metadata/
+/.recommenders/
+/RemoteSystemsTempFiles/
+/Spring_Fundamentals/spring_sample/.settings/
+/Spring_Fundamentals/spring_sample/.classpath
+/Spring_Fundamentals/spring_sample/.project
